@@ -156,12 +156,6 @@ For full usage examples, refer to the [Phase 1 README](./cv_analysis_module/READ
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request. Focus on Phases 2-4 for now.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
